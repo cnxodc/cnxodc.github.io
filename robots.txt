@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cnxodc.github.io/sitemap.html.gz
+Sitemap: https://cnxodc.github.io/app/sitemap.html.gz
+Sitemap: https://cnxodc.github.io/assets/sitemap.html.gz
+Sitemap: https://cnxodc.github.io/css/sitemap.html.gz
+Sitemap: https://cnxodc.github.io/data/sitemap.html.gz
+Sitemap: https://cnxodc.github.io/includes/sitemap.html.gz
+Sitemap: https://cnxodc.github.io/item/sitemap.html.gz
+Sitemap: https://cnxodc.github.io/src/sitemap.html.gz
